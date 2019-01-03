@@ -7,27 +7,17 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		85E5E4B521DDE940005231CB /* Parse-iOS.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "Parse-iOS.zip"; sourceTree = "<group>"; };
-		85E5E4B621DDE940005231CB /* ParseUI.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = ParseUI.zip; sourceTree = "<group>"; };
-		85E5E4B721DDE981005231CB /* ParseFrameworks.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ParseFrameworks.json; sourceTree = "<group>"; };
+		85E5E4B721DDE981005231CB /* ParseFramework.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ParseFramework.json; sourceTree = "<group>"; };
+		85E5E4B821DDEB93005231CB /* ParseUIFramework.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ParseUIFramework.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		85E5E4AD21DDE8E7005231CB = {
 			isa = PBXGroup;
 			children = (
-				85E5E4B721DDE981005231CB /* ParseFrameworks.json */,
-				85E5E4B421DDE931005231CB /* 1.17.1 */,
+				85E5E4B721DDE981005231CB /* ParseFramework.json */,
+				85E5E4B821DDEB93005231CB /* ParseUIFramework.json */,
 			);
-			sourceTree = "<group>";
-		};
-		85E5E4B421DDE931005231CB /* 1.17.1 */ = {
-			isa = PBXGroup;
-			children = (
-				85E5E4B521DDE940005231CB /* Parse-iOS.zip */,
-				85E5E4B621DDE940005231CB /* ParseUI.zip */,
-			);
-			path = 1.17.1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
