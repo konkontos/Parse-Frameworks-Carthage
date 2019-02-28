@@ -28,7 +28,7 @@
 			attributes = {
 				LastUpgradeCheck = 1010;
 			};
-			buildConfigurationList = 85E5E4B121DDE8E7005231CB /* Build configuration list for PBXProject "RBTGRK-PARSE-FRAMEWORKS" */;
+			buildConfigurationList = 85E5E4B121DDE8E7005231CB /* Build configuration list for PBXProject "PARSE-FRAMEWORKS" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -59,7 +59,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		85E5E4B121DDE8E7005231CB /* Build configuration list for PBXProject "RBTGRK-PARSE-FRAMEWORKS" */ = {
+		85E5E4B121DDE8E7005231CB /* Build configuration list for PBXProject "PARSE-FRAMEWORKS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				85E5E4B221DDE8E7005231CB /* Debug */,
