@@ -1,4 +1,5 @@
 {
     "1.17.1": "https://github.com/parse-community/Parse-SDK-iOS-OSX/releases/download/1.17.1/Parse-iOS.zip",
-    "1.17.2": "https://github.com/konkontos/Parse-Frameworks-Carthage/releases/download/1.17.2/Parse-iOS.zip"
+    "1.17.2": "https://github.com/konkontos/Parse-Frameworks-Carthage/releases/download/1.17.2/Parse-iOS.zip",
+    "1.17.3": "https://github.com/konkontos/Parse-Frameworks-Carthage/releases/download/1.17.3/Parse-iOS.zip"
 }
